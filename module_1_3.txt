@@ -1,0 +1,8 @@
+name = 'Diana'
+print('Name:',name)
+age = 21
+print('Age:',age)
+new_age = 21 + 5
+print('New age:',new_age)
+is_student = "True"  #логическое значение
+print('Is student:',is_student)
